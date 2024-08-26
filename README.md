@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ionut</h1>
+<h1 align="center">Hi 👋, I'm Ionut</h1> 
 <h3 align="center">A passionate Computer Science Student from Iasi</h3>
 
 - 🔭 I’m currently working on [CV-Builder-App](https://github.com/ionutsavin/CV-Builder-App)
